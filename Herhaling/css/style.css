@@ -1,0 +1,29 @@
+
+body{
+  background-color: #D2FFA9;
+  margin: 0;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+header{
+  background-color: #8AB861;
+  height: 8em;
+  width: 100%;
+}
+
+#login{
+  margin:auto;
+  margin-top: 10%;
+  display: table;
+  font-family: 'Fira Sans', sans-serif;
+  text-align: center;
+  font-size: 2em;
+}
+#login h1{
+  font-size: 3em;
+}
+
+
+input{
+  font-size: 1em;
+}
